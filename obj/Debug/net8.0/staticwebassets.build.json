@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "75myPfgBOM9093ndZMYdmCI46wNsjEwy278g8iDQFo8=",
+  "Source": "JwtWithIdentiyAuthenticatoin",
+  "BasePath": "_content/JwtWithIdentiyAuthenticatoin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
